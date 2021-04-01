@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Comment text="bleh" />
-      <Comment text="blah" />
+      {/* <Comment text="blah" /> */}
     </>
   );
 }

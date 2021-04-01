@@ -1,0 +1,51 @@
+.comment {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-block-start: 20px;
+    height: 50px;
+    font-size: 14px;
+}
+
+.header {
+  display: flex;
+}
+
+.vote {
+  display: flex;
+  flex-direction: column;
+    height: 50%;
+    padding: 0;
+    border: 0;
+    font-size: 10px;
+}
+
+.up-vote {
+}
+.down-vote {
+}
+
+.metadata {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.author {
+  margin-block-start: 0;
+  margin-block-end: 0;
+   font-weight:bold;
+}
+
+.num-vote {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.content {
+    position:relative;
+}
+
+.footer {
+    
+}
